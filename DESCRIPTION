@@ -1,0 +1,12 @@
+Package: LXvenn
+Type: Package
+Title: LXvenn::venn
+Version: 2023.01
+Author: Dr.Lin
+Maintainer: Dr.Lin <gluck4668@sina.com>
+Description: MLXvenn can be used for making venn diagram.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
